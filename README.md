@@ -24,4 +24,4 @@ Latihan ini berfokus pada pengenalan dasar Array dalam JavaScript, meliputi:
 * soal-5-NIS-20261103.js - Studi Kasus Data Siswa
 
 ## Refleksi Pembelajaran
-Melalui latihan praktik ini, saya menjadi lebih paham bagaimana cara mendeklarasikan Array, mengambil data berdasarkan indeks, serta menggunakan properti `length` secara efisien dalam pemrograman JavaScript.
+Melalui latihan praktik ini, saya menjadi lebih paham bagaimana cara mendeklarasikan Array, mengambil data berdasarkan indeks, serta menggunakan properti length secara efisien dalam pemrograman JavaScript.
